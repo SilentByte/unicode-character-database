@@ -1,0 +1,13 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 20 13:50 .
+drwxr-xr-x   4 ftp      ftp          4096 Jun 21 17:52 ..
+-rw-r--r--   1 ftp      ftp         91555 Jun  3  2016 GraphemeBreakProperty.txt
+-rw-r--r--   1 ftp      ftp         40823 Jun  3  2016 GraphemeBreakTest.html
+-rw-r--r--   1 ftp      ftp        108781 Jun  3  2016 GraphemeBreakTest.txt
+-rw-r--r--   1 ftp      ftp        368002 Jun 18  2016 LineBreakTest.html
+-rw-r--r--   1 ftp      ftp       1031953 Jun 18  2016 LineBreakTest.txt
+-rw-r--r--   1 ftp      ftp        193992 Jun  1  2016 SentenceBreakProperty.txt
+-rw-r--r--   1 ftp      ftp        106564 Jun  3  2016 SentenceBreakTest.html
+-rw-r--r--   1 ftp      ftp         87547 Jun  3  2016 SentenceBreakTest.txt
+-rw-r--r--   1 ftp      ftp         93799 Jun  1  2016 WordBreakProperty.txt
+-rw-r--r--   1 ftp      ftp         61918 Jun  3  2016 WordBreakTest.html
+-rw-r--r--   1 ftp      ftp        335821 Jun  3  2016 WordBreakTest.txt

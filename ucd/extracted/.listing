@@ -1,0 +1,13 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 20 13:48 .
+drwxr-xr-x   4 ftp      ftp          4096 Jun 21 17:52 ..
+-rw-r--r--   1 ftp      ftp        151424 Jun  1  2016 DerivedBidiClass.txt
+-rw-r--r--   1 ftp      ftp         16726 Mar  3  2016 DerivedBinaryProperties.txt
+-rw-r--r--   1 ftp      ftp        153972 Jun  1  2016 DerivedCombiningClass.txt
+-rw-r--r--   1 ftp      ftp         73336 Mar  3  2016 DerivedDecompositionType.txt
+-rw-r--r--   1 ftp      ftp        160321 Jun  1  2016 DerivedEastAsianWidth.txt
+-rw-r--r--   1 ftp      ftp        244082 Jun  1  2016 DerivedGeneralCategory.txt
+-rw-r--r--   1 ftp      ftp         20970 Mar  3  2016 DerivedJoiningGroup.txt
+-rw-r--r--   1 ftp      ftp         31908 Jun  1  2016 DerivedJoiningType.txt
+-rw-r--r--   1 ftp      ftp        221003 Jun  1  2016 DerivedLineBreak.txt
+-rw-r--r--   1 ftp      ftp         17937 Mar  3  2016 DerivedNumericType.txt
+-rw-r--r--   1 ftp      ftp        110972 Mar  3  2016 DerivedNumericValues.txt

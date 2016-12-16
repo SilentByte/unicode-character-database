@@ -15,9 +15,11 @@ Use `make update` to update the Unicode Character Database.
 
 ```make
 Unicode Character Database
-  make update    Update all UCD files.
-  make ucd       Update plain UCD files.
-  make ucdxml    Update XML UCD files.
+  make update        Update all UCD files.
+  make everything    Update all UCD files and unzip compressefiles.
+  make ucd           Update plain UCD files.
+  make ucdxml        Update XML UCD files.
+  make unzip         Unzip all compressed database files.
 ```
 
 
@@ -51,7 +53,6 @@ SOFTWARE.
 
 ### Unicode Character Database
 
-More details under:
-http://www.unicode.org/copyright.html
+Details here: http://www.unicode.org/copyright.html
 
 

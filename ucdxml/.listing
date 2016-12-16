@@ -1,0 +1,9 @@
+drwxr-xr-x   2 ftp      ftp          4096 Mar 10  2016 .
+drwxr-xr-x   5 ftp      ftp          4096 Jun 21 00:47 ..
+-rw-r--r--   1 ftp      ftp       7547316 Jun 29 15:35 ucd.all.flat.zip
+-rw-r--r--   1 ftp      ftp       6378264 Jun 29 15:35 ucd.all.grouped.zip
+-rw-r--r--   1 ftp      ftp        864264 Jun 29 15:35 ucd.nounihan.flat.zip
+-rw-r--r--   1 ftp      ftp        543213 Jun 29 15:35 ucd.nounihan.grouped.zip
+-rw-r--r--   1 ftp      ftp       5825408 Jun 29 15:35 ucd.unihan.flat.zip
+-rw-r--r--   1 ftp      ftp       5832168 Jun 29 15:35 ucd.unihan.grouped.zip
+-rw-r--r--   1 ftp      ftp          1157 Jun 29 15:35 ucdxml.readme.txt
